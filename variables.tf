@@ -1,6 +1,6 @@
 
 variable "location" {
-  default = "westus2"
+  default = "eastus"
 }
 
 variable "user" {
